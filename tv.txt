@@ -649,3 +649,6 @@ CCTV-13,http://120.234.5.29:6000/udp/239.21.0.88:3692
 CCTV-13,http://60.27.20.217:4022/rtp/225.1.2.193:5002
 CCTV-13,http://1b6467f415.iok.la:9931/tsfile/live/1033_1.m3u8
 CCTV-13,http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+2-网络节目,#genre#
+武术世界,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
